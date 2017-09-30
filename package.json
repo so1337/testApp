@@ -1,0 +1,31 @@
+{
+  "name": "testApp",
+  "version": "1.0.0",
+  "author": "Nikita Lisnyak",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "build": "node gulpfile.js"
+  },
+  "dependencies": {
+    "express": "4.16.0",
+    "react": "15.3.0",
+    "react-dom": "15.3.0",
+    "babel-cli": "6.26.0",
+    "gulp": "3.9.1",
+    "gulp-babel": "7.0.0",
+    "babel-preset-env": "1.6.0",
+    "babel-preset-react": "6.24.1",
+    "babel-plugin-transform-react-jsx": "6.24.1",
+    "browserify": "14.4.0",
+    "vinyl-source-stream": "1.1.0",
+    "gulp-util": "3.0.8",
+    "gulp-rename": "1.2.2",
+    "lodash": "4.17.4",
+    "request": "2.83.0",
+    "nano": "6.4.2",
+    "react-bootstrap": "0.31.3",
+    "body-parser": "1.18.2",
+    "react-bootstrap-table": "4.0.6"
+  }
+}
